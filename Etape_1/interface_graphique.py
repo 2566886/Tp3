@@ -1,5 +1,4 @@
 import tkinter as tk
-from simulation_numérique_discrète import creer_simulation, etape_simulation
 
 fenetre = tk.Tk()
 fenetre.title("Jeu de billard")
