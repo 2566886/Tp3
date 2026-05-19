@@ -1,0 +1,10 @@
+{
+  "largeur": 1000,
+  "hauteur": 625,
+  "mu": 0.1,
+  "rayon": 10,
+  "balles": [
+    { "position": [10, 10] },
+    { "position": [200, 100] }
+  ]
+}
